@@ -13,7 +13,7 @@ Run the command bellow at the root of the project.
 $ docker-compose up -d
 ```
 
-Access the app on http://localhost:8080/
+Access the app on http://localhost:80/
 
 ### Contribute
 Submit a Pull Request!
